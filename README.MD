@@ -8,8 +8,3 @@ This Streamlit web application predicts the likelihood of leukemia using Complet
 - Displays nearby hospitals based on user location
 - Shows informative content about leukemia (treatment, symptoms, etc.)
 
-## 🛠️ How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
